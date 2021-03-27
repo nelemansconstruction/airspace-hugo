@@ -2,10 +2,9 @@
 banner:
   enable: true
   bg_image: images/slider-bg.jpg
-  bg_overlay: false
+  bg_overlay: true
   title: Delivering quality custom homes <br/> for 50+ years
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: We build each home as if it's our own.
   button:
     enable: true
     label: Discover Our Project
