@@ -4,7 +4,7 @@ banner:
   bg_image: images/slider-bg.jpg
   bg_overlay: true
   title: Delivering quality custom homes <br/> for 50+ years
-  content: We build each home as if it's our own.
+  content: We build each home as if it's our own
   button:
     enable: true
     label: Discover Our Project
