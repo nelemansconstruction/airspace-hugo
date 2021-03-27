@@ -1,4 +1,4 @@
-baseURL = "http://examplesite.org"
+baseURL = "https://www.nelemansconstruction.com"
 disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "4"
