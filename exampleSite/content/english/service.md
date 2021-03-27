@@ -42,7 +42,7 @@ service:
     and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
     right at the coast of the Semantics
   service_item:
-  - icon: ion-home-outline
+  - icon: ion-home
     name: New Home Construction
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut
