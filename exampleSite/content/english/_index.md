@@ -26,6 +26,8 @@ about:
     the display center and envision building that new dream home, contact us at 507-835-5503,
     or find us at www.envisionhomeatlast.com
   image: images/wrapper-img.png
+  button:
+    enable: true
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
