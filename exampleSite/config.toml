@@ -153,7 +153,7 @@ logo_width = "150px"
 mobile = "0124857985320"
 multi_author = false
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.gmap]
 enable = true
