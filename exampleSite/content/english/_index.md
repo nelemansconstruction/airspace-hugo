@@ -13,18 +13,18 @@ about:
   enable: true
   title: About Us
   description: ''
-  content: Nelemans Construction is proud to announce that as an award winning panelized/component
+  content: "Nelemans Construction is proud to announce that as an award winning panelized/component
     builder for the past 43 years, we have joined the Blenker Building Systems team
     with Envision Custom Homes. Blenker Building Systems started in 1974 as a panelized
     manufacturer of new homes in central Wisconsin. They have evolved into a state
     of the art custom component building system; designing everything from a 1,200
-    sq.ft. starter home to a 30,000 sq. ft. mansion and everything in between. Envision
+    sq.ft. starter home to a 30,000 sq. ft. mansion and everything in between. \n\nEnvision
     Custom Homes builds the highest quality home at an affordable, guaranteed price
     offering an extensive amount of the most asked for products in todays new homes.
     We at Nelemans Construction are putting the finishing touches on the new display
     center located in the North Ridge Shopping center in Waseca by McDonalds. To visit
     the display center and envision building that new dream home, contact us at 507-835-5503,
-    or find us at www.envisionhomeatlast.com
+    or find us at www.envisionhomeatlast.com"
   image: images/wrapper-img.png
   button:
     enable: true
