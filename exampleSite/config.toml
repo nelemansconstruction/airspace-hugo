@@ -163,7 +163,7 @@ map_longitude = "-93.5032374"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Contact Us"
 link = "contact"
 [[params.plugins.css]]
 attributes = "media='screen'"
