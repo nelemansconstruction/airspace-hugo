@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image: images/slider-bg.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
+  title: Delivering quality custom homes <br/> for 50+ years
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs
   button:
