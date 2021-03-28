@@ -6,7 +6,7 @@ banner:
   title: Delivering quality custom homes <br/> for 50+ years
   content: We build each home as if it's our own
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
