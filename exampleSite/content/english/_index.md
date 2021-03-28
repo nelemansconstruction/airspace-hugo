@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/example.jpg
   bg_overlay: true
   title: Delivering quality custom homes <br/> for 50+ years
   content: We build each home as if it's our own
