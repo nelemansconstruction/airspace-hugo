@@ -25,7 +25,7 @@ about:
     center located in the North Ridge Shopping center in Waseca by McDonalds. To visit
     the display center and envision building that new dream home, contact us at 507-835-5503,
     or find us at www.envisionhomeatlast.com"
-  image: images/wrapper-img.png
+  image: images/about.jpeg
   button:
     enable: true
 portfolio:
