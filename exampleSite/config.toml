@@ -142,15 +142,15 @@ unsafe = true
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "Nelemans Construction"
 contact_form_action = "#"
-description = "This is meta description"
+description = ""
 email = "nelemansconstruction@gmail.com"
 google_analitycs_id = ""
 location = "405 16th Ave SE, Waseca, MN 56093"
 logo = "images/logo.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = "(507) 835-5503"
 multi_author = false
 [params.cookies]
 enable = false
