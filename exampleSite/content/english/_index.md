@@ -56,7 +56,7 @@ cta:
     experienced Team who just love to design.
   button:
     enable: true
-    label: Tell Us Your Story
+    label: Contact Us
     link: contact
 funfacts:
   enable: false
