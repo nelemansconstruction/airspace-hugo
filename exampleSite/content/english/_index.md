@@ -28,6 +28,7 @@ about:
   image: images/about.jpeg
   button:
     enable: true
+  funfacts: []
 portfolio:
   enable: false
   bg_image: images/featue-bg.jpg
