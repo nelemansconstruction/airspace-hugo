@@ -1,6 +1,6 @@
 ---
 title: Service
-description: this is meta description
+description: ''
 bg_image: images/featue-bg.jpg
 layout: service
 about:
